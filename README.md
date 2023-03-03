@@ -15,24 +15,24 @@ Checkout my profile: [anushkachauhan](https://rosalind.info/users/anushkachauhan
 - [x] IPRB
 - [x] PROT
 - [x] SUBS
-- [ ] CONS
+- [x] CONS
 - [x] FIBD
-- [ ] GRPH
+- [x] GRPH
 - [x] IEV
 - [ ] LCSM
 - [ ] LIA
-- [ ] MPRT
-- [ ] MRNA
-- [ ] ORF
+- [x] MPRT
+- [x] MRNA
+- [x] ORF
 - [x] PERM
 - [x] PRTM
-- [ ] REVP
-- [ ] SPLC
+- [x] REVP
+- [x] SPLC
 - [ ] LEXF
 - [ ] LGIS
 - [ ] LONG
 - [ ] PMCH
-- [ ] PPER
+- [x] PPER
 - [ ] PROB
 - [ ] SIGN
 - [ ] SSEQ
