@@ -22,18 +22,14 @@ def sortInput(lines):
 
 
 def findSubsequenceIndices(s, t):
-    indices = []
-    progress = -1
+    indices = [0]
 
-    while (len(indices) < len(t) and progress < len(s)-1):
-        next = t[len(indices)]  # next symbol to search
-        for i in range(progress+1, len(s)):
-            if (s[i] == next):
-                indices.append(i+1)
-                break
-        progress = i
+    for ch in t:
+        prev = indices[-1]
+        next = prev + s[prev:].index(ch)
+        indices.append(next+1)
 
-    return indices
+    return indices[1:]
 
 
 def main():
