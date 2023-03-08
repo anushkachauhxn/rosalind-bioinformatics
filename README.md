@@ -19,8 +19,8 @@ Checkout my profile: [anushkachauhan](https://rosalind.info/users/anushkachauhan
 - [x] FIBD
 - [x] GRPH
 - [x] IEV
-- [ ] LCSM
-- [ ] LIA
+- [x] LCSM
+- [x] LIA
 - [x] MPRT
 - [x] MRNA
 - [x] ORF
@@ -28,15 +28,15 @@ Checkout my profile: [anushkachauhan](https://rosalind.info/users/anushkachauhan
 - [x] PRTM
 - [x] REVP
 - [x] SPLC
-- [ ] LEXF
+- [x] LEXF
 - [ ] LGIS
 - [ ] LONG
 - [ ] PMCH
 - [x] PPER
-- [ ] PROB
-- [ ] SIGN
-- [ ] SSEQ
-- [ ] TRAN
+- [x] PROB
+- [x] SIGN
+- [x] SSEQ
+- [x] TRAN
 - [ ] TREE
 - [ ] CAT
 - [ ] CORR
